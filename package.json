@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/hapi__joi": "^17.1.6",
+    "react-dropzone": "^11.3.1"
+  }
+}
